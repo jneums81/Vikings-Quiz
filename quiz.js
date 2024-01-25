@@ -93,6 +93,16 @@ const questions = [
         options: ['Daunte Culpepper', 'Randy Moss', 'Cris Carter', 'John Randle'],
         correctAnswer: 'Daunte Culpepper',
     },
+    {
+        question: "How much was Kirk Cousins' first contract with the Vikings?",
+        options: ['$90 million', '$84 million', '$88 million', '$100 million'],
+        correctAnswer: '$84 million',
+    },
+    {
+        question: "In week 11 of the 2016 season, 2 players on the Vikings scored 100+ yard touchdowns against the Cardinals, Cordarelle Patterson and what cornerback?",
+        options: ['Xavier Rhodes', 'Captain Munnerlyn', 'Trae Waynes', 'Mackenzie Alexander'],
+        correctAnswer: 'Xavier Rhodes',
+    }
 ];
 
 startQuiz();
